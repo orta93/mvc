@@ -1,0 +1,10 @@
+{
+    "name": "lpiii/mvc",
+    "description": "Mi primer mvc",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
